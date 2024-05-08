@@ -19,9 +19,9 @@
 ## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hoangcool2309/)
 
-📞: (+84) 336 334 143
+📞 (+84) 336 334 143
 
-📧: hminhhoangdev@gmail.com
+📧 hminhhoangdev@gmail.com
 
 ---
 [![](https://visitcount.itsvg.in/api?id=HuynhMinhHoang&icon=2&color=11)](https://visitcount.itsvg.in)
