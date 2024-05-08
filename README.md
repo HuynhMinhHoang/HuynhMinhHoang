@@ -16,8 +16,5 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhMinhHoang&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hoangcool2309/)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=HuynhMinhHoang&icon=2&color=11)](https://visitcount.itsvg.in)
