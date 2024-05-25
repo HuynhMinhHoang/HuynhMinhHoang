@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **NodeJs, ReactJs, JavaScript**
 
 - 📫 How to reach me **hminhhoangdev@gmail.com**
+
+- ✨ View my CV **<a href="https://drive.google.com/file/d/16q_t-ZnHL7Z_AoZ9vaLdkhA9cOf1XBrX/preview">here</a>**
  <br/>
 <h2 align="center">💻 Languages - Frameworks - Tools 💻</h2>
 
@@ -29,4 +31,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhMinhHoang&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-<a href="https://drive.google.com/file/d/16q_t-ZnHL7Z_AoZ9vaLdkhA9cOf1XBrX/preview">My CV</a>
+
