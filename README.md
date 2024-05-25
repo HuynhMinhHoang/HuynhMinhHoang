@@ -25,7 +25,7 @@
 <!-- ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 [![My Skills](https://skillicons.dev/icons?i=postman,firebase)](https://skillicons.dev)
 
-### ⚡ Stats
+### ⚡ Stats ⚡
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HuynhMinhHoang&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
