@@ -2,7 +2,7 @@
 [![](https://visitcount.itsvg.in/api?id=HuynhMinhHoang&icon=2&color=11)](https://visitcount.itsvg.in)
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Huynh+Minh+Hoang!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Huynh+Minh+Hoang!;" />
 </h1>
 
 ### 💻 Frontend
