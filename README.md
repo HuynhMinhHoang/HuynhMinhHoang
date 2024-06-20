@@ -20,7 +20,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,redux,js,html,css,bootstrap)](https://skillicons.dev)
 ### Backend
 <!-- ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) -->
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql)](https://skillicons.dev)
 
 
 ### Other
