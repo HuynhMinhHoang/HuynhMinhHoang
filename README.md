@@ -7,7 +7,7 @@
 
 - 💻 My major is **Information Technology**
 
-- 🌱 I’m currently learning **NodeJs, ReactJs, JavaScript**
+- 🌱 I’m currently learning **Java, ReactJs, JavaScript**
 
 - 📫 How to reach me **hminhhoangdev@gmail.com**
 
