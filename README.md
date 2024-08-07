@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hminhhoangdev@gmail.com**
 
-- ✨ View my CV **<a href="https://drive.google.com/file/d/1dv0X6_uRyA6x3Qnn-0sxMQnBk0AXDxP8/preview" target="_blank">here</a>**
+- ✨ View my CV **<a href="https://drive.google.com/file/d/16KNTv8PK1cv_97lAQMe-QaQPfYxTK_F7/preview" target="_blank">here</a>**
  <br/>
 <h2 align="center">💻 Languages - Frameworks - Tools 💻</h2>
 
