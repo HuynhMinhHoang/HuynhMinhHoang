@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Huynh+Minh+Hoang!;" />
 </h1>
 
-- 🎓 I have graduated with a degree in Information Technology from **The Open University - Ho Chi Minh City**
+- 🎓 I have graduated with a degree in **Information Technology** from **The Open University - Ho Chi Minh City**
 
 - 💻 My major is **Information Technology**
 
